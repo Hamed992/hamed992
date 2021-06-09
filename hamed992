@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+
+<!-- Template by quackit.com -->
+
+<html>
+
+<head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <title>Artificial intelligence</title>
+
+    <style type="text/css">
+
+        /* Layout */
+
+
+
+        body {
+
+            min-width: 630px;
+
+        }
+
+
+
+        #container {
+
+            padding-left: 200px;
+
+            padding-right: 190px;
+
+        }
+
+
+
+        #container .column {
+
+            position: relative;
+
+            float: left;
+
+        }
+
+
+
+        #center {
+
+            padding: 10px 20px;
+
+            width: 100%;
+
+        }
+
+
+
+        #left {
+
+            width: 180px;
+
+            padding: 0 10px;
+
+            right: 240px;
+
+            margin-left: -100%;
+
+        }
+
+
+
+        #right {
+
+            width: 130px;
+
+            padding: 0 10px;
+
+            margin-right: -100%;
+
+        }
+
+
+
+        #footer {
+
+            clear: both;
+
+        }
+
+        /* IE hack */
+
+
+
+        * html #left {
+
+            left: 150px;
+
+        }
+
+        /* Make the columns the same height as each other */
+
+
+
+        #container {
+
+            overflow: hidden;
+
+        }
+
+
+
+        #container .column {
+
+            padding-bottom: 1001em;
+
+            margin-bottom: -1000em;
+
+        }
+
+        /* Fix for the footer */
+
+
+
+        * html body {
+
+            overflow: hidden;
+
+        }
+
+
+
+        * html #footer-wrapper {
+
+            float: left;
+
+            position: relative;
+
+            width: 100%;
+
+            padding-bottom: 10010px;
+
+            margin-bottom: -10000px;
+
+            background: #fff;
+
+        }
+
+        /* Aesthetics */
+
+
+
+        body {
+
+            margin: 0;
+
+            padding: 0;
+
+            font-family: Sans-serif;
+
+            line-height: 1.5em;
+
+        }
+
+
+
+        p {
+
+            color: #555;
+
+        }
+
+
+
+        nav ul {
+
+            list-style-type: none;
+
+            margin: 0;
+
+            padding: 0;
+
+        }
+
+
+
+        nav ul a {
+
+            color: darkgreen;
+
+            text-decoration: none;
+
+        }
+
+
+
+        #header,
+
+        #footer {
+
+            font-size: large;
+
+            padding: 0.3em;
+
+            background: #BCCE98;
+
+        }
+
+
+
+        #left {
+
+            background: #05ebcc;
+
+        }
+
+
+
+        #right {
+
+            background: #05ebcc;
+
+        }
+
+
+
+        #center {
+
+            background: #fff;
+
+        }
+
+
+
+        #container .column {
+
+            padding-top: 1em;
+
+        }
+
+    </style>
+
+
+
+</head>
+
+<body>
+
+    <header id="header">
+
+        <h1 style="text-align: center;">Artificial intelligence</h1>
+
+    </header>
+
+    <div id="container">
+
+        <main id="center" class="column">
+
+            <article>
+
+                <h2>1-What is Artificial Intelligence (AI)?</h2>
+
+                <p>Artificial intelligence (AI) is a wide-ranging branch of computer science concerned with building smart machines capable of performing tasks that typically require human intelligence. AI is an interdisciplinary science with multiple approaches,
+
+                    but advancements in machine learning and deep learning are creating a paradigm shift in virtually every sector of the tech industry. 
+
+
+<div>
+  <div>
+    Artificial intelligence (AI) is intelligence demonstrated by machines, unlike the natural intelligence displayed by humans and animals, which involves consciousness and emotionality. The distinction between the former and the latter categories is often revealed by the acronym chosen. 'Strong' AI is usually labelled as artificial general intelligence (AGI) while attempts to emulate 'natural' intelligence have been called artificial biological intelligence (ABI). Leading AI textbooks define the field as the study of "intelligent agents": any device that perceives its environment and takes actions that maximize its chance of achieving its goals. Colloquially, the term "artificial intelligence" is often used to describe machines that mimic "cognitive" functions that humans associate with the human mind, such as "learning" and "problem solving".
+      <a href="https://en.wikipedia.org/wiki/Artificial_intelligence">For more info</a></p>
+  </div>
+              </div>
+          <div>
+            <h2>2-History of artificial intelligence </h2>
+            <p>
+              Thought-capable artificial beings appeared as storytelling devices in antiquity, and have been common in fiction, as in Mary Shelley's Frankenstein or Karel Čapek's R.U.R. These characters and their fates raised many of the same issues now discussed in the ethics of artificial intelligence.
+
+The study of mechanical or "formal" reasoning began with philosophers and mathematicians in antiquity. The study of mathematical logic led directly to Alan Turing's theory of computation, which suggested that a machine, by shuffling symbols as simple as "0" and "1", could simulate any conceivable act of mathematical deduction. This insight, that digital computers can simulate any process of formal reasoning, is known as the Church–Turing thesis. Along with concurrent discoveries in neurobiology, information theory and cybernetics, this led researchers to consider the possibility of building an electronic brain. Turing proposed changing the question from whether a machine was intelligent, to "whether or not it is possible for machinery to show intelligent behaviour". The first work that is now generally recognized as AI was McCullouch and Pitts' 1943 formal design for Turing-complete "artificial neurons". 
+              <a href="https://en.wikipedia.org/wiki/Artificial_intelligence#History">More about history</a>
+            </p>
+          </div>
+                <h2>3-How Artificial Intelligence (AI) Works?</h2>
+
+                <p>Building an AI system is a careful process of reverse-engineering human traits and capabilities in a machine, and using it’s computational prowess to surpass what we are capable of. To understand How Aritificial Intelligence actually works,
+
+                    one needs to deep dive into the various sub domains of Artificial Intelligence and and understand how those domains could be applied into the various fields of the industry. You can also take up an artificial intelligence course that
+
+                    will help you gain a comprehensive understanding.
+                 <a href="https://builtin.com/artificial-intelligence">More about Artificial Intelligence </a></p>
+              <img src="https://miro.medium.com/max/631/0*Q3PICBlib-932hhH.png" width="200"></p>
+
+                <p>
+
+                    <h3>a) Machine Learning</h3> ML teaches a machine how to make inferences and decisions based on past experience. It identifies patterns, analyses past data to infer the meaning of these data points to reach a possible conclusion without
+
+                    having to involve human experience. This automation to reach conclusions by evaluating data, saves a human time for businesses and helps them make a better decision.
+
+                    <h3>b) Deep Learning</h3> Deep Learning ia an ML technique. It teaches a machine to process inputs through layers in order to classify, infer and predict the outcome.
+
+                    <h3>c) Neural Networks</h3> Neural Networks work on the similar principles as of Human Neural cells. They are a series of algorithms that captures the relationship between various underying variabes and processes the data as a human brain
+
+                    does.
+
+                    <h3>d) Natural Language Processingc</h3> NLP is a science of reading, understanding, interpreting a language by a machine. Once a machine understands what the user intends to communicate, it responds accordingly.
+          <img src="https://i1.wp.com/aliz.ai/wp-content/uploads/2019/05/Natural-Language-Processing-03-1.png?fit=3042%2C1521&ssl=1"  width="200">
+
+                    <h3>e) Computer Vision </h3> Computer vision algorithms tries to understand an image by breaking down an image and studying different parts of the objects. This helps the machine classify and learn from a set of images, to make a better
+
+                    output decision based on previous observations.
+
+                    <h3>f) Cognitive Computing </h3> Cognitive computing algorithms try to mimic a human brain by anaysing text/speech/images/objects in a manner that a human does and tries to give the desired output.<a href="https://searchenterpriseai.techtarget.com/definition/cognitive-computing">More info.</a></p>
+      <img src="https://embed-fastly.wistia.com/deliveries/fcf2435eff19e5dd991378a84182eb5f0c9f0011.webp?image_crop_resized=1024x768" width="200">
+
+                <h2>4-What are the Types of Artificial Intelligence?</h2>
+
+                <p>Not all types of AI all the above fields simultaneously. Different Artificial Intelligence entities are built for different purposes, and that’s how they vary. AI can be classified based on Type 1 and Type 2 (Based on functionalities).
+
+                    Here’s a brief introduction the first type.<img src="https://mytechpick.com/wp-content/uploads/2021/03/types-of-Artificial-intelligence-1.jpg" width="200" ></p>
+
+                <h4>3 Types of Artificial Intelligence</h4>
+
+                <ul>
+
+                    <li>Artificial Narrow Intelligence (ANI)</li>
+
+                    <li>Artificial General Intelligence (AGI)</li>
+
+                    <li>Artificial Super Intelligence (ASI)</li>
+
+
+                </ul>
+  		<div>
+          <h2>5-Challenges</h2>
+          <p>
+            The cognitive capabilities of current architectures are very limited, using only a simplified version of what intelligence is really capable of. For instance, the human mind has come up with ways to reason beyond measure and logical explanations to different occurrences in life. What would have been otherwise straightforward, an equivalently difficult problem may be challenging to solve computationally as opposed to using the human mind. This gives rise to two classes of models: structuralist and functionalist. The structural models aim to loosely mimic the basic intelligence operations of the mind such as reasoning and logic. The functional model refers to the correlating data to its computed counterpart.
+          </p>
+             <ul>
+
+                    <li>Reasoning, problem solving</li>
+
+                    <li>Knowledge representation</li>
+
+                    <li>Breadth of commonsense knowledge</li>
+               <li>Planning</li>
+               <li>Natural language processing</li>
+
+
+                </ul>
+
+  </div>
+
+            </article>
+
+        </main>
+
+        <nav id="left" class="column">
+
+
+
+        </nav>
+
+        <div id="right" class="column">
+
+        </div>
+
+    </div>
+
+    <div id="footer-wrapper">
+
+        <footer id="footer">
+
+        </footer>
+
+    </div>
+
+</body>
+
+</html>
